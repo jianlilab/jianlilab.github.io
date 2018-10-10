@@ -1,0 +1,13 @@
+name: "Learning and Decision-making Lab @ PKU"
+description: "This is the official web page for Learning and Decision-making Lab at PKU."
+
+url: "http://jianlilab.github.io"
+
+paginate: 5
+gems: [jekyll-paginate]
+paginate_path: "news/page:num"
+
+permalink: pretty
+markdown: kramdown
+kramdown: 
+  parse_block_html: true
