@@ -1,0 +1,57 @@
+- name: Jian Li
+  image: /static/img/members/JianLi.jpg
+  altimage: /static/img/members/photobomb/JianLi_bomb.jpg
+  position: Principal Investigator
+  email: li.jian (at) pku.edu.cn
+  scholar: IBegxO0AAAAJ&hl=en
+  twitter: ""
+  description: "Jian Li could live off his appearance, but instead he lives off his talent." 
+
+- name: Li Li
+  image: /static/img/members/LiLi.jpg
+  altimage: /static/img/members/photobomb/LiLi_bomb.jpg
+  position: Graduate Student
+  email: 
+  scholar: 
+  description: "Li is a graduate student."
+
+- name: Weiwei Li
+  image: /static/img/members/WeiweiLi.jpg
+  altimage: /static/img/members/photobomb/WeiweiLi_bomb.jpg
+  position: Graduate Student
+  email: 
+  scholar: 
+  description: "Weiwei is a graduate student."
+
+- name: Jingwei Sun
+  image: /static/img/members/JingweiSun.jpg
+  altimage: /static/img/members/photobomb/JingweiSun_bomb.jpg
+  position: Graduate Student
+  email: 
+  scholar: 
+  description: "Jingwei is a graduate student."
+
+- name: Yu Tong
+  image: /static/img/members/YuTongjpg
+  altimage: /static/img/members/photobomb/YuTong_bomb.jpg
+  position: Graduate Student
+  email: 
+  scholar: 
+  description: "Yu is a graduate student."
+
+- name: Ye Wang
+  image: /static/img/members/Ye Wang.jpg
+  altimage: /static/img/members/photobomb/Ye Wang_bomb.jpg
+  position: Graduate Student
+  email: 
+  scholar: 
+  description: "Ye is a graduate student."
+
+  - name: Shiqi Zhang
+  image: /static/img/members/ShiqiZhang.jpg
+  altimage: /static/img/members/photobomb/ShiqiZhang_bomb.jpg
+  position: Master Student
+  email: 
+  scholar: 
+  description: "Shiqi is a graduate student."
+
