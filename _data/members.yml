@@ -47,7 +47,7 @@
   scholar: 
   description: "Ye is a graduate student."
 
-  - name: Shiqi Zhang
+- name: Shiqi Zhang
   image: /static/img/members/ShiqiZhang.jpg
   altimage: /static/img/members/photobomb/ShiqiZhang_bomb.jpg
   position: Master Student

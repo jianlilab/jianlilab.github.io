@@ -1,5 +1,5 @@
 
-## Fraser Lab Alumni
+## Learning and Decision-making Lab Alumni
 
 
 {% for alum in site.data.alumni %}
