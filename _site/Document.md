@@ -1,12 +1,30 @@
 # Documents 
 
-This .md file (tries to) explain function of different files in the process of building the lab website.
+This .md file (tries to) explain function of different files in the process of building the lab website. 
+
+Also, it includes the things planned to do in the future.
 
 First written on 10/11/2018 by Haoxue Fan
 
 Last modified on 10/11/2018 by Haoxue Fan
 
 ---
+
+## To do list 
+
+* homepage: change introduction
+* research: fill in
+* publication: add all publications
+* members: picture (1 or 2), self introduction, lab alumni, a line of "interested in joining us? please see the part of join the lab", email, CV button, delete the twitter button
+* links: ask Jian Li if to include collaborators, or other links
+* private: to be completed in the future...
+* Picture on each page - lab photo?
+* color - green / red - and how to do this… (same may apply to font)
+* about the lab's name
+
+---
+
+## Function introduction
 
  [Folder] _site
 
