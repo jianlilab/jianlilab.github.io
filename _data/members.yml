@@ -39,6 +39,14 @@
   scholar: 
   description: "Yu is a graduate student."
 
+- name: Jiashu Wang
+  image: /static/img/members/Jiashu Wang
+  altimage: /static/img/members/photobomb/JiashuWang_bomb.jpg
+  position: Graduate Student
+  email: 
+  scholar: 
+  description: "Yu is a graduate student."
+
 - name: Ye Wang
   image: /static/img/members/Ye Wang.jpg
   altimage: /static/img/members/photobomb/Ye Wang_bomb.jpg
@@ -61,7 +69,7 @@
   position: Undergraduate Research Assistant
   email: 
   scholar: 
-  description: "Siru is a undergraduate student."
+  description: "Siru is an undergraduate student."
 
 - name: Haoxue Fan
   image: /static/img/members/HaoxueFan.jpg
@@ -69,5 +77,5 @@
   position: Undergraduate Research Assistant
   email: 
   scholar: 
-  description: "Haoxue is a undergraduate student."
+  description: "Haoxue is an undergraduate student."
 
