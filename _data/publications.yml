@@ -14,16 +14,16 @@
 #       url: 'http://mullinslab.ucsf.edu/'
 #
 
-- citation: 'Li Li, Shiro Kumano, Anita Keshmirian, Bahador Bahrami, Jian Li & Nicholas D. Wright. Parsing cultural impacts on regret and risk in Iran, China and the United Kingdom. Scientific Reports. 2018.'
-  date: 201809
-  # image: '/static/img/pub/rotow_2018.jpg'
-  # pmid: Submitted
-  # pmcid: Submitted
-  # biorxiv: "374181"
+- title: '*happy* journey!!!'
+  # author:
+  # journal:
+  # year:
   pdf: 'https://www.nature.com/articles/s41598-018-30680-7.pdf'
-  # links:
-    # - name: Bivona Lab
-      # url: 'http://www.bivonalab.net/'
+  published_at: 201809
 
-  # pdbs:
- 
+- title: '<u>why not work</u> journey!!!'
+  # author:
+  # journal:
+  # year:
+  pdf: 'https://www.nature.com/articles/s41598-018-30680-7.pdf'
+  published_at: 201801
