@@ -55,3 +55,19 @@
   scholar: 
   description: "Shiqi is a graduate student."
 
+- name: Siru Chen
+  image: /static/img/members/SiruChen.jpg
+  altimage: /static/img/members/photobomb/SiruChen_bomb.jpg
+  position: Undergraduate Research Assistant
+  email: 
+  scholar: 
+  description: "Siru is a undergraduate student."
+
+- name: Haoxue Fan
+  image: /static/img/members/HaoxueFan.jpg
+  altimage: /static/img/members/photobomb/HaoxueFan_bomb.jpg
+  position: Undergraduate Research Assistant
+  email: 
+  scholar: 
+  description: "Haoxue is a undergraduate student."
+
