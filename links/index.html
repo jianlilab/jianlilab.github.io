@@ -8,11 +8,12 @@ layout: defaultlinksmembers
 
 
 
-
+{% assign sorted = site.data.collaborators | sort : ''}
 
 {% for collaborator in sorted %}
 
 <div>{{ collaborator.name | markdownify}}
+
 
 {% for person in site.data.members %}
 <hr>
