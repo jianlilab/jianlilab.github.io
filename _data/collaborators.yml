@@ -1,8 +1,17 @@
 - name: Peter Sokol-Hessner
+  abbreviation: S.P
+  education: PhD
   school: University of Denver
   website: 'http://www.sokolhessnerlab.com'
 
+- name: Liz Phelps
+  abbreviation: P.E
+  education: PhD
+  school: New York University
+  website: 'http://www.psych.nyu.edu/phelpslab'
+
 # - name: 
+#   abbreviation: 
 #   school: 
 #   website: 
 

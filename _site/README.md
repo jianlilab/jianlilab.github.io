@@ -3,7 +3,9 @@ jianli lab webpage - alpha version (alpha means still a lot are under constructi
 
 First written on 10/10/2018 by Haoxue Fan
 
-Last modified on 10/10/2018 by Haoxue Fan
+Last modified on 10/13/2018 by Haoxue Fan
+
+If there's any suggestion about out website / any inquiry about further info, don't hesitate and please shoot an email to haoxuefan1997@gmail.com ! I am still trying to learn website construction, and I am looking forward to hearing from you :)
 
 ====================
 
