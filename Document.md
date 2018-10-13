@@ -12,15 +12,30 @@ Last modified on 10/11/2018 by Haoxue Fan
 
 ## To do list 
 
-* homepage: change introduction
-* research: fill in
+### Jian Li:
+
+* introduction on homepage
+* research interest on 'research'
+* check publication list 
+* lab's name
+
+### Lab members:
+
+* picture, self-introduction, e-mail 
+* lab photo
+* private part (any method instead of google site?)
+
+### Myself:
+
+* fix the link problem
+* change font (instead of the default markdown font)
+
+
 * publication: add all publications
 * members: picture (1 or 2), self introduction, lab alumni, a line of "interested in joining us? please see the part of join the lab", email, CV button, delete the twitter button
 * links: ask Jian Li if to include collaborators, or other links
 * private: to be completed in the future...
-* Picture on each page - lab photo?
-* color - green / red - and how to do this… (same may apply to font)
-* about the lab's name
+* ​
 
 ---
 
