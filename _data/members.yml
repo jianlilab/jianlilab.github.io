@@ -40,7 +40,7 @@
 
 - name: Jiashu Wang
   image: /static/img/members/JiashuWang.png
-  altimage: /static/img/members/photobomb/JiashuWang_bomb.jpg
+  altimage: /static/img/members/JiashuWang.png
   position: Graduate Student
   email: 
   scholar: 
@@ -50,7 +50,7 @@
   image: /static/img/members/Ye Wang.jpg
   altimage: /static/img/members/photobomb/Ye Wang_bomb.jpg
   position: Graduate Student
-  email: 
+  email: wangjiashu1991@163.com
   scholar: 
   description: "Ye is a graduate student."
 
@@ -74,7 +74,7 @@
   image: /static/img/members/HaoxueFan.jpg
   altimage: /static/img/members/photobomb/HaoxueFan_bomb.jpg
   position: Undergraduate Research Assistant
-  email: 
+  email: haoxuefan1997@gmail.com
   scholar: 
   description: "Haoxue is an undergraduate student."
 
