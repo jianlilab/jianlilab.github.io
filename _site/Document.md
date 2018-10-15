@@ -6,7 +6,7 @@ Also, it includes the things planned to do in the future.
 
 First written on 10/11/2018 by Haoxue Fan
 
-Last modified on 10/11/2018 by Haoxue Fan
+Last modified on 10/13/2018 by Haoxue Fan
 
 ---
 
@@ -18,6 +18,7 @@ Last modified on 10/11/2018 by Haoxue Fan
 * research interest on 'research'
 * check publication list 
 * lab's name
+* Collaborator
 
 ### Lab members:
 
@@ -27,15 +28,14 @@ Last modified on 10/11/2018 by Haoxue Fan
 
 ### Myself:
 
-* fix the link problem
 * change font (instead of the default markdown font)
 
 
 * publication: add all publications
+* collaborator: add collaborator (after get the list)
 * members: picture (1 or 2), self introduction, lab alumni, a line of "interested in joining us? please see the part of join the lab", email, CV button, delete the twitter button
-* links: ask Jian Li if to include collaborators, or other links
+* change title on each page (include lab name or not)
 * private: to be completed in the future...
-* ​
 
 ---
 
