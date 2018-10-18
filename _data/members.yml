@@ -1,10 +1,10 @@
 - name: Jian Li
   image: /static/img/members/JianLi.jpg
-  altimage: /static/img/members/JianLi.jpg
+  altimage: /static/img/members/bomb/JianLi_bomb.jpg
   position: Principal Investigator
   email: li.jian (at) pku.edu.cn
   scholar: IBegxO0AAAAJ&hl=en
-  description: "Jian Li could live off his appearance, but instead he lives off his talent." 
+  description: "My research interests evolve around the questions regarding human affective learning (reward and punishment) and decision-making. More specifically, I am interested in how human extract salient information to guide their behavior in an uncertain environment. I also focus on bridging the gap between learning-driven decision-making and those economic decision-making processes that do not have obvious learning components. One line of research projects concerns the understanding of how the circuitry of value related brain areas orchestrates to make consistent choices in inter-temporal decision making tasks. A second set of research seeks to understand how first and second order (variance and volatility) would impact people’s social behavior. A third line of research centers on better understanding the interaction of basal ganglia and prefrontal cortex in generating preferences and choices." 
 
 - name: Li Li
   image: /static/img/members/LiLi.jpg

@@ -44,4 +44,4 @@ One main goal of the lab is to provide undergraduates opportunities with suffici
 </div>
 
 
-<img class="img-responsive center-block" src="/static/img/excited_cat.jpg" alt="meow again!?">
+<img class="img-responsive center-block" src="/static/img/JoinUs.jpg" alt="Join Us!">
