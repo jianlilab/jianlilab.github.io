@@ -1,4 +1,4 @@
-- name: Jian Li
+- name: Jian Li (李健)
   image: /static/img/members/JianLi.jpg
   altimage: /static/img/members/bomb/JianLi_bomb.jpg
   position: Principal Investigator
@@ -6,7 +6,7 @@
   scholar: IBegxO0AAAAJ&hl=en
   description: "My research interests evolve around the questions regarding human affective learning (reward and punishment) and decision-making. More specifically, I am interested in how human extract salient information to guide their behavior in an uncertain environment. I also focus on bridging the gap between learning-driven decision-making and those economic decision-making processes that do not have obvious learning components. One line of research projects concerns the understanding of how the circuitry of value related brain areas orchestrates to make consistent choices in inter-temporal decision making tasks. A second set of research seeks to understand how first and second order (variance and volatility) would impact people’s social behavior. A third line of research centers on better understanding the interaction of basal ganglia and prefrontal cortex in generating preferences and choices." 
 
-- name: Li Li
+- name: Li Li (李莉)
   image: /static/img/members/LiLi.jpg
   altimage: /static/img/members/photobomb/LiLi_bomb.jpg
   position: Graduate Student
@@ -14,7 +14,7 @@
   scholar: 
   description: "Li is a graduate student."
 
-- name: Weiwei Li
+- name: Weiwei Li (李维维)
   image: /static/img/members/WeiweiLi.jpg
   altimage: /static/img/members/photobomb/WeiweiLi_bomb.jpg
   position: Graduate Student
@@ -22,7 +22,7 @@
   scholar: 
   description: "Weiwei is a graduate student."
 
-- name: Jingwei Sun
+- name: Jingwei Sun (孙经纬)
   image: /static/img/members/JingweiSun.jpg
   altimage: /static/img/members/photobomb/JingweiSun_bomb.jpg
   position: Graduate Student
@@ -30,7 +30,7 @@
   scholar: 
   description: "Jingwei is a graduate student."
 
-- name: Yu Tong
+- name: Yu Tong (童玉)
   image: /static/img/members/YuTongjpg
   altimage: /static/img/members/photobomb/YuTong_bomb.jpg
   position: Graduate Student
@@ -38,7 +38,7 @@
   scholar: 
   description: "Yu is a graduate student."
 
-- name: Jiashu Wang
+- name: Jiashu Wang (王嘉澍)
   image: /static/img/members/JiashuWang.png
   altimage: /static/img/members/JiashuWang.png
   position: Graduate Student
@@ -46,7 +46,7 @@
   scholar: 
   description: "Jiashu Wang was born in 1991 in Xi’an, Shaanxi Province. He got his bachelor degree in Psychology from Peking University in 2015. Now he is a PhD student in Jian’s Lab. Jiashu is interested in the psychological and neural mechanisms underlying people’s decisions, especially how human process and integrate information when they make economic choices. He has rich experience using fMRI, tDCS, modelling and behavioral methods to explore the topics including temporal discount, reward and memory, social conformity and sunk cost. Recently, his work focuses on mental accounting — the set of cognitive processes to “organize, evaluate, and keep track of financial activities”."
 
-- name: Ye Wang
+- name: Ye Wang (王也)
   image: /static/img/members/Ye Wang.jpg
   altimage: /static/img/members/photobomb/Ye Wang_bomb.jpg
   position: Graduate Student
@@ -54,7 +54,7 @@
   scholar: 
   description: "Ye is a graduate student."
 
-- name: Shiqi Zhang
+- name: Shiqi Zhang (张诗琪)
   image: /static/img/members/ShiqiZhang.jpg
   altimage: /static/img/members/photobomb/ShiqiZhang_bomb.jpg
   position: Master Student
@@ -62,7 +62,15 @@
   scholar: 
   description: "Shiqi is a graduate student."
 
-- name: Siru Chen
+- name: Yingshengnan Wu (吴颖晟楠)
+  image: /static/img/members/YingshengnanWu.jpg
+  altimage: /static/img/members/bomb/YingshengnanWu_bomb.jpg
+  position: Research Assistant
+  email: yingshengnan (at) gmail.com
+  scholar: 
+  description: "I was graduated from Medical School of Nankai University and have a Master of neurology. I am interested in exploring brain using MRI approaches(including fMRI, DTI, ASL). Also a big fan of science fiction and fantasy fiction."
+
+- name: Siru Chen (陈思如)
   image: /static/img/members/SiruChen.jpg
   altimage: /static/img/members/photobomb/SiruChen_bomb.jpg
   position: Undergraduate Research Assistant
@@ -70,7 +78,7 @@
   scholar: 
   description: "Siru is an undergraduate student."
 
-- name: Haoxue Fan
+- name: Haoxue Fan (樊浩雪)
   image: /static/img/members/HaoxueFan.jpeg
   altimage: /static/img/members/HaoxueFan.jpeg
   position: Undergraduate Research Assistant
