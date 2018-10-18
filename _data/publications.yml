@@ -31,7 +31,7 @@
   published_at: 20160512
 
 - title: 'Dunsmoor, J. E., Kubota, J. T., **Li, J.**, Coelho, C. A., & Phelps, E. A. (2016). Racial stereotypes impair flexibility of emotional learning. *Social cognitive and affective neuroscience, 11*(9), 1363-1373.'
-  pdf: 
+  pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5015802/pdf/nsw053.pdf
   published_at: 20160422
 
 - title: 'Jones, R. M., Somerville, L. H., **Li, J.**, Ruberry, E. J., Powers, A., Mehta, N., Jonathan D. & Casey, B. J. (2014). Adolescent-specific patterns of behavior and neural activity during social reinforcement learning. *Cognitive, Affective, & Behavioral Neuroscience, 14*(2), 683-697.'
@@ -42,8 +42,8 @@
   pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4028070/pdf/nihms-575771.pdf'
   published_at: 20131200
 
-- title: 'Sip, K. E., Carmel, D., Marchant, **J. L.**, Li, J., Petrovic, P., Roepstorff, A., ... & Frith, C. D. (2013). When Pinocchio''s nose does not grow: belief regarding lie-detectability modulates production of deception. *Frontiers in human neuroscience, 7*, 16.'
-  pdf: 
+- title: 'Sip, K. E., Carmel, D., Marchant, **J. L.**, Li, J., Petrovic, P., Roepstorff, A., McGregor W. B., & Frith, C. D. (2013). When Pinocchio''s nose does not grow: belief regarding lie-detectability modulates production of deception. *Frontiers in human neuroscience, 7*, 16.'
+  pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3563087/pdf/fnhum-07-00016.pdf
   published_at: 20130204
 
 - title: 'Kishida, K. T., **Li, J.**, Schwind, J., & Montague, P. R. (2012). New approaches to investigating social gestures in autism spectrum disorder. *Journal of neurodevelopmental disorders, 4*(1), 14.'
@@ -58,6 +58,14 @@
   pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3268261/pdf/nihms349460.pdf'
   published_at: 20111000
 
+- title: 'Jones, R. M., Somerville, L. H., **Li, J.**, Ruberry, E. J., Libby, V., Glover, G., Voss H. U., Ballon D. J., & Casey, B. J. (2011). Behavioral and neural properties of social reinforcement learning. *Journal of Neuroscience, 31*(37), 13039-13045.'
+  pdf: 'http://www.jneurosci.org/content/jneuro/31/37/13039.full.pdf'
+  published_at: 20110914Rebecca M. Jones, Leah H. Somerville, Jian Li, Erika J. Ruberry, Victoria Libby, Gary Glover, Henning U. Voss, Douglas J. Ballon and B. J. Casey
+
+- title: '**Li, J.**, & Daw, N. D. (2011). Signals in human striatum are appropriate for policy update rather than value prediction. *Journal of Neuroscience, 31*(14), 5504-5511.'
+  pdf: 'http://www.jneurosci.org/content/jneuro/31/14/5504.full.pdf'
+  published_at: 20110406
+
 - title: 'Dickerson, K. C., **Li, J.**, & Delgado, M. R. (2011). Parallel contributions of distinct human memory systems during probabilistic learning. *Neuroimage, 55*(1), 266-276.'
   pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3031672/pdf/nihms251862.pdf'
   published_at: 20110301
@@ -66,14 +74,33 @@
   pdf: 'http://www.pnas.org/content/pnas/early/2010/12/14/1014938108.full.pdf'
   published_at: 20110104
 
-- title: 
-  pdf: 
-  published_at: 
+- title: '**Li, J.**, Xiao, E., Houser, D., & Montague, P. R. (2009). Neural responses to sanction threats in two-party economic exchange. *Proceedings of the National Academy of Sciences, 106*(39), 16835-16840.'
+  pdf: 'http://www.pnas.org/content/pnas/106/39/16835.full.pdf'
+  published_at: 20090929
 
-- title: 
-  pdf: 
-  published_at: 
+- title: 'Delgado, M. R., **Li, J.**, Schiller, D., & Phelps, E. A. (2008). The role of the striatum in aversive learning and aversive prediction errors. *Philosophical Transactions of the Royal Society of London B: Biological Sciences, 363*(1511), 3787-3800.'
+  pdf: 'http://rstb.royalsocietypublishing.org/content/royptb/363/1511/3787.full.pdf'
+  published_at: 20081212
 
+- title: 'Van Den Bos, W., **Li, J.**, Lau, T., Maskin, E., Cohen, J. D., Montague, P. R., & McClure, S. M. (2008). The value of victory: social origins of the winner's curse in common value auctions. *Judgment and decision making, 3*(7), 483.'
+  pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2841440/pdf/nihms-136943.pdf'
+  published_at: 20081001
+
+- title: 'Strathearn, L., **Li, J.**, Fonagy, P., & Montague, P. R. (2008). What's in a smile? Maternal brain responses to infant facial cues. *Pediatrics, 122*(1), 40-51.'
+  pdf: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2597649/pdf/nihms67447.pdf'
+  published_at: 20080701
+
+- title: '**Li, J.**, McClure, S. M., King-Casas, B., & Montague, P. R. (2006). Policy adjustment in a dynamic economic game. *PLoS One, 1*(1), e103.'
+  pdf: 'https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0000103&type=printable'
+  published_at: 20061220
+
+- title: 'Strathearn, L., **Li, J.**, & Montague, P. R. (2005). An fMRI study of maternal mentalization: Having the baby’s mind in mind. *Neuroimage, 26*(suppl 1), S25.'
+  pdf: 
+  published_at: 20050000
+
+- title: 'McClure, S. M., **Li, J.**, Tomlin, D., Cypert, K. S., Montague, L. M., & Montague, P. R. (2004). Neural correlates of behavioral preference for culturally familiar drinks. *Neuron, 44*(2), 379-387.'
+  pdf: 'https://ac.els-cdn.com/S0896627304006129/1-s2.0-S0896627304006129-main.pdf?_tid=bf0e16df-90d0-4d86-888c-9ade97c70846&acdnat=1539851255_efaeb50e9ced4743bb2d8fedcf1f0ecd'
+  published_at: 20041014
 
 
 
