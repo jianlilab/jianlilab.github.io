@@ -4,7 +4,7 @@ layout: home
 group: home
 ---
 
-# Welcome to Learning and Decision-making Lab!
+# <span style = "font-size: 80%">Welcome to Learning and Decision-making Lab!
 
 We are part of [School of Psychological and Cognitive Sciences](http://psy.pku.edu.cn) at [Peking University](http://pku.edu.cn). 
 
