@@ -23,12 +23,12 @@
   description: "Weiwei is a graduate student."
 
 - name: Jingwei Sun (孙经纬)
-  image: /static/img/members/JingweiSun.jpg
-  altimage: /static/img/members/photobomb/JingweiSun_bomb.jpg
+  image: /static/img/members/JingweiSun.jpeg
+  altimage: /static/img/members/JingweiSun.jpeg
   position: Graduate Student
   email: 
   scholar: 
-  description: "Jingwei is a graduate student."
+  description: "Jingwei is a PhD student, working on how humans learn to make decisions with uncertainty, with a focus on reinforcement learning modeling. In particular, she is interested in how positive and negative information would affect humans’s choices and why. She has a bachelor’s degree in Psychology from Peking University."
 
 - name: Yu Tong (童玉)
   image: /static/img/members/YuTongjpg
