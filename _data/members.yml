@@ -8,7 +8,7 @@
 
 - name: Li Li (李莉)
   image: /static/img/members/LiLi.jpg
-  altimage: /static/img/members/photobomb/LiLi_bomb.jpg
+  altimage: /static/img/members/LiLi.jpg
   position: Graduate Student
   email: 
   scholar: 
@@ -16,7 +16,7 @@
 
 - name: Weiwei Li (李维维)
   image: /static/img/members/WeiweiLi.jpg
-  altimage: /static/img/members/photobomb/WeiweiLi_bomb.jpg
+  altimage: /static/img/members/WeiweiLi.jpg
   position: Graduate Student
   email: 
   scholar: 
@@ -47,8 +47,8 @@
   description: "Jiashu Wang was born in 1991 in Xi’an, Shaanxi Province. He got his bachelor degree in Psychology from Peking University in 2015. Now he is a PhD student in Jian’s Lab. Jiashu is interested in the psychological and neural mechanisms underlying people’s decisions, especially how human process and integrate information when they make economic choices. He has rich experience using fMRI, tDCS, modelling and behavioral methods to explore the topics including temporal discount, reward and memory, social conformity and sunk cost. Recently, his work focuses on mental accounting — the set of cognitive processes to “organize, evaluate, and keep track of financial activities”."
 
 - name: Ye Wang (王也)
-  image: /static/img/members/Ye Wang.jpg
-  altimage: /static/img/members/photobomb/Ye Wang_bomb.jpg
+  image: /static/img/members/YeWang.jpg
+  altimage: /static/img/members/YeWang.jpg
   position: Graduate Student
   email: 
   scholar: 
@@ -56,7 +56,7 @@
 
 - name: Shiqi Zhang (张诗琪)
   image: /static/img/members/ShiqiZhang.jpg
-  altimage: /static/img/members/photobomb/ShiqiZhang_bomb.jpg
+  altimage: /static/img/members/ShiqiZhang.jpg
   position: Master Student
   email: 
   scholar: 
