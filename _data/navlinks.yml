@@ -22,6 +22,6 @@
   link: "/links"
   group: links
 
-- name: private
-  link: ""
-  group: private
+- name: internal
+  link: "/BALiL"
+  group: internal
