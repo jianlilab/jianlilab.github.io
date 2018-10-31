@@ -23,5 +23,5 @@
   group: links
 
 - name: internal
-  link: "/BALiL"
+  link: "/internal"
   group: internal
