@@ -31,8 +31,8 @@
   description: "Jingwei is a PhD student, working on how humans learn to make decisions with uncertainty, with a focus on reinforcement learning modeling. In particular, she is interested in how positive and negative information would affect humans’s choices and why. She has a bachelor’s degree in Psychology from Peking University."
 
 - name: Yu Tong (童玉)
-  image: /static/img/members/YuTongjpg
-  altimage: /static/img/members/photobomb/YuTong_bomb.jpg
+  image: /static/img/members/YuTong.jpg
+  altimage: /static/img/members/YuTong.jpg
   position: Graduate Student
   email: 
   scholar: 
@@ -60,7 +60,7 @@
   position: Master Student
   email: 
   scholar: 
-  description: "Shiqi is a graduate student."
+  description: "Shiqi is a master student."
 
 - name: Yingshengnan Wu (吴颖晟楠)
   image: /static/img/members/YingshengnanWu.JPG
