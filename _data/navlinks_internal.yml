@@ -1,0 +1,20 @@
+- name: 主页
+  link: /internal/BaLiL8102"
+  group: home
+
+- name: 邮箱列表
+  link: "/internal/BaLiL8102/email"
+  group: email
+
+- name: 核心阅读
+  link: "/internal/BaLiL8102/reading"
+  group: reading
+
+- name: 相关期刊
+  link: "/internal/BaLiL8102/journal"
+  group: journal
+
+- name: FUN
+  link: "/internal/BaLiL8102/fun"
+  group: fun
+
