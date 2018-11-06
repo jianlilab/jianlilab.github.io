@@ -16,11 +16,11 @@
 
 - name: Weiwei Li (李维维)
   image: /static/img/members/WeiweiLi.jpg
-  altimage: /static/img/members/WeiweiLi.jpg
+  altimage: /static/img/members/WeiweiLi.jpeg
   position: Graduate Student
   email: 
   scholar: 
-  description: "Weiwei is a graduate student."
+  description: "Weiwei Li is a PhD student in Jian’s lab. She is generally interested in the cognitive and neural mechanisms when people making economic decisions. Recently, using fMRI and behavior modeling, she is working on the potential factors impacting human risk decision-making, including personality, temporal delay, and sensitivity to probabilities."
 
 - name: Jingwei Sun (孙经纬)
   image: /static/img/members/JingweiSun.jpeg
