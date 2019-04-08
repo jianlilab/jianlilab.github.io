@@ -14,19 +14,17 @@ group: research
 
 <div class = "col-md-10">
 
-# <span style = "font-size: 90%">Our lab is focused on answering some of the central questions in reinforcement learning and decision making: 
+# <span style = "font-size: 90%">Our lab is focused on answering some central and interesting questions in reinforcement learning and decision making: 
 
-## Question 1
+## Learning from good and bad
 
-Lalalala 
+Very interesting!
 
-## Question 2
+## Sunk cost
 
-Hahahaha
+Very cool!
 
-## Question 3
-
-Yeahyeah
+## More exciting questions - stay tuned!
 
 <div>
 
