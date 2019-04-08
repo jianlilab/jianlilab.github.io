@@ -6,13 +6,13 @@
   scholar: IBegxO0AAAAJ&hl=en
   description: "My research interests evolve around the questions regarding human affective learning (reward and punishment) and decision-making. More specifically, I am interested in how human extract salient information to guide their behavior in an uncertain environment. I also focus on bridging the gap between learning-driven decision-making and those economic decision-making processes that do not have obvious learning components. One line of research projects concerns the understanding of how the circuitry of value related brain areas orchestrates to make consistent choices in inter-temporal decision making tasks. A second set of research seeks to understand how first and second order (variance and volatility) would impact people’s social behavior. A third line of research centers on better understanding the interaction of basal ganglia and prefrontal cortex in generating preferences and choices." 
 
-- name: Li Li (李莉)
-  image: /static/img/members/LiLi.jpg
-  altimage: /static/img/members/LiLi.jpg
-  position: Graduate Student
-  email: 
-  scholar: 
-  description: "Li is a graduate student."
+# - name: Li Li (李莉)
+#   image: /static/img/members/LiLi.jpg
+#   altimage: /static/img/members/LiLi.jpg
+#   position: Graduate Student
+#   email: 
+#   scholar: 
+#   description: "Li is a graduate student."
 
 - name: Weiwei Li (李维维)
   image: /static/img/members/WeiweiLi.jpeg
@@ -30,13 +30,13 @@
   scholar: 
   description: "Jingwei is a PhD student, working on how humans learn to make decisions with uncertainty, with a focus on reinforcement learning modeling. In particular, she is interested in how positive and negative information would affect humans’s choices and why. She has a bachelor’s degree in Psychology from Peking University."
 
-- name: Yu Tong (童玉)
-  image: /static/img/members/YuTong.jpg
-  altimage: /static/img/members/YuTong.jpg
-  position: Graduate Student
-  email: 
-  scholar: 
-  description: "Yu is a graduate student."
+# - name: Yu Tong (童玉)
+#   image: /static/img/members/YuTong.jpg
+#   altimage: /static/img/members/YuTong.jpg
+#   position: Graduate Student
+#   email: 
+#   scholar: 
+#   description: "Yu is a graduate student."
 
 - name: Jiashu Wang (王嘉澍)
   image: /static/img/members/JiashuWang.png
@@ -54,6 +54,14 @@
   scholar: 
   description: "Ye is a graduate student."
 
+- name: Hong Zhang (张红)
+  image: /static/img/members/HongZhang.jpg
+  altimage: /static/img/members/HongZhang.jpg
+  position: Graduate Student
+  email: 
+  scholar: 
+  description: "Hong is a graduate student."
+
 - name: Shiqi Zhang (张诗琪)
   image: /static/img/members/ShiqiZhang.jpg
   altimage: /static/img/members/ShiqiZhang.jpg
@@ -62,13 +70,13 @@
   scholar: 
   description: "Shiqi is a master student."
 
-- name: Yingshengnan Wu (吴颖晟楠)
-  image: /static/img/members/YingshengnanWu.JPG
-  altimage: /static/img/members/bomb/YingshengnanWu_bomb.jpg
-  position: Research Assistant
-  email: yingshengnan (at) gmail.com
-  scholar: 
-  description: "I graduated from Medical School of Nankai University and have a Master degree of Neurology. I am interested in exploring brain using MRI approaches(including fMRI, DTI, ASL). Also a big fan of science fiction and fantasy fiction."
+# - name: Yingshengnan Wu (吴颖晟楠)
+#   image: /static/img/members/YingshengnanWu.JPG
+#   altimage: /static/img/members/bomb/YingshengnanWu_bomb.jpg
+#   position: Research Assistant
+#   email: yingshengnan (at) gmail.com
+#   scholar: 
+#   description: "I graduated from Medical School of Nankai University and have a Master degree of Neurology. I am interested in exploring brain using MRI approaches(including fMRI, DTI, ASL). Also a big fan of science fiction and fantasy fiction."
 
 - name: Siru Chen (陈思如)
   image: /static/img/members/SiruChen.jpeg

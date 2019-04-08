@@ -4,11 +4,30 @@
   school: University of Denver
   website: 'http://www.sokolhessnerlab.com'
 
+- name: Nathaniel Daw
+  abbreviation: N.D
+  education: PhD
+  school: Princeton
+  website: 'https://dawlab.princeton.edu'
+
 - name: Liz Phelps
   abbreviation: P.E
   education: PhD
   school: New York University
   website: 'http://www.psych.nyu.edu/phelpslab'
+
+- name: Oriel FeldmanHall
+  abbreviation: O.F
+  education: PhD
+  school: Brown University
+  website: 'http://feldmanhalllab.com/'
+
+- name: Lauren Atlas
+  abbreviation: L.A
+  education: PhD
+  school: NIH
+  website: 'https://nccih.nih.gov/research/intramural/atlas-lab/staff'
+
 
 # - name: 
 #   abbreviation: 
