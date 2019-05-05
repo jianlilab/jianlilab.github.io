@@ -62,6 +62,14 @@
   scholar: 
   description: "Hong is a graduate student."
 
+- name: Kuo Liu (刘阔)
+  image: /static/img/members/KuoLiu.jpg
+  altimage: /static/img/members/KuoLiu.jpg
+  position: Graduate Student
+  email: 
+  scholar: 
+  description: "Kuo is a graduate student."
+
 - name: Shiqi Zhang (张诗琪)
   image: /static/img/members/ShiqiZhang.jpg
   altimage: /static/img/members/ShiqiZhang.jpg
