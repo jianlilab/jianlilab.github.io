@@ -13,6 +13,13 @@
 #     - name: 'Mullins Lab'
 #       url: 'http://mullinslab.ucsf.edu/'
 #
+- title: '**Sun, J.**, **Li, J.**, & Zhang, H. (2019). Human representation of multimodal distributions as clusters of samples. PLoS computational biology, 15(5), e1007047.'
+  pdf: 'https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007047'
+  published_at: 20190514
+
+- title: '**Li, W.**, Wang, H., Xie, X., & **Li, J.** (2019). Neural mediation of greed personality trait on economic risk-taking. eLife, 8, e45093.'
+  pdf: 'https://cdn.elifesciences.org/articles/45093/elife-45093-v2.pdf'
+  published_at: 20190429
 
 - title: 'Dunsmoor, J. E., Kroes, M. C., **Li, J.**, Daw, N. D., Simpson, H. B., & Phelps, E. A. (2019). Role of human ventromedial prefrontal cortex in learning and recall of enhanced extinction. Journal of Neuroscience, 2713-18.'
   pdf: 'http://www.jneurosci.org/content/jneuro/early/2019/02/19/JNEUROSCI.2713-18.2019.full.pdf'
