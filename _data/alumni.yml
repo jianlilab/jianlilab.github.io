@@ -1,8 +1,8 @@
-- name: Yingshengnan Wu (吴颖晟楠)
-  position: Research Assistant
+- name: Qiong Wu (吴琼)
+  position: Postdoctoral Fellow
   startdate: 
   enddate: 
-  current: Graduate student @ Vision Lab, Peking University
+  current: Lecturer @ Capital Normal University, China
 
 - name: Li Li (李莉)
   position: Graduate Student
@@ -10,23 +10,17 @@
   enddate: 
   current: 
 
-- name: Qiong Wu (吴琼)
-  position: Postdoctoral Fellow
-  startdate: 
-  enddate: 
-  current: Lecturer @ Capital Normal University
-
 - name: Weiwei Li (李维维)
   position: Graduate Student
   startdate: 
   enddate: 
-  current: Lecturer @ Hunan Normal University
+  current: Lecturer @ Hunan Normal University, China
   
 - name: Jingwei Sun (孙经纬)
   position: Graduate Student
   startdate: 
   enddate: 
-  current: @ Lenovo
+  current: Product manager @ Lenovo
   
 - name: Tianqing Li (李天晴)
   position: Master Student
@@ -34,27 +28,50 @@
   enddate: 
   current:
 
-- name: Mingyu Song (宋明育)
+- name: Shiqi Zhang (张诗琪)
+  position: Master Student
+  startdate: 
+  enddate: 
+  current: 
+
+- name: Yingshengnan Wu (吴颖晟楠)
+  position: Research Assistant
+  startdate: 
+  enddate: 
+  current: Graduate student @ Vision Lab, Peking University
+
+- name: Siru Chen (陈思如)
   position: Undergraduate Research Assistant
   startdate: 
   enddate: 
-  current: Graduate student @ Niv Lab, Princeton
+  current: 
+  
+- name: Haoxue Fan (樊浩雪)
+  position: Undergraduate Research Assistant
+  startdate: 
+  enddate: 
+  current: Graduate student @ Phelps Lab, Harvard University
 
 - name: Jiang Mao (毛江)
   position: Undergraduate Research Assistant
   startdate: 
   enddate: 
-  current: Graduate student @CPC Lab, UPenn
+  current: Graduate student @ CPC Lab, University of Pennsylvania
+  
+- name: Mingyu Song (宋明育)
+  position: Undergraduate Research Assistant
+  startdate: 
+  enddate: 
+  current: Graduate student @ Niv Lab, Princeton University
 
 - name: Bo shen (沈波)
   position: 
   startdate: 
   enddate: 
-  current: Postdoctoral fellow @ Glimber Lab, NYU
-  #  Graduate student @ CBCS, Peking University
+  current: Postdoctoral fellow @ Glimber Lab, New York University
 
 - name: Yunlu Yin (殷云路)
   position: 
   startdate: 
   enddate: 
-  current: Graduate student @ HKU
+  current: Graduate student @ The University of Hong Kong
