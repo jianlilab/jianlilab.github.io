@@ -9,17 +9,17 @@
 
 - name: Yinmei Ni (倪荫梅)
   image: 
-  altimage: /static/img/members/bomb/YeWang_bomb.jpeg
+  altimage: 
   position: Postdoc
-  email: 
+  email: niyinmei@mail.bnu.edu.cn
   scholar: 
   description: "Yinmei is a Postdoc."
   
 - name: Xunwei Sun (孙洵伟)
   image: 
-  altimage: /static/img/members/bomb/YeWang_bomb.jpeg
+  altimage: 
   position: Postdoc
-  email: 
+  email: sunxw@psych.ac.cn
   scholar: 
   description: "Xunwei is a Postdoc."
 
@@ -27,15 +27,15 @@
   image: /static/img/members/JiashuWang.png
   altimage: /static/img/members/JiashuWang.png
   position: Graduate Student
-  email: wangjiashu1991 (at) 163.com
+  email: wangjiashu1991@163.com
   scholar: 
-  description: "Jiashu was born in 1991 in Xi’an, Shaanxi Province. He got his bachelor degree in Psychology from Peking University in 2015. Now he is a PhD student in Jian’s Lab. Jiashu is interested in the psychological and neural mechanisms underlying people’s decisions, especially how human process and integrate information when they make economic choices. He has rich experience using fMRI, tDCS, modelling and behavioral methods to explore the topics including temporal discount, reward and memory, social conformity and sunk cost. Recently, his work focuses on mental accounting — the set of cognitive processes to “organize, evaluate, and keep track of financial activities”."
+  description: "Jiashu was born in 1991 in Xi’an, Shaanxi Province. He got his bachelor degree in Psychology from Peking University in 2015. Now Jiashu is interested in the psychological and neural mechanisms underlying people’s decisions, especially how human process and integrate information when they make economic choices. He has rich experience using fMRI, tDCS, modelling and behavioral methods to explore the topics including temporal discount, reward and memory, social conformity and sunk cost. Recently, his work focuses on mental accounting — the set of cognitive processes to “organize, evaluate, and keep track of financial activities”."
 
 - name: Ye Wang (王也)
   image: /static/img/members/YeWang.jpg
   altimage: 
   position: Graduate Student
-  email: 
+  email: wangye2017@pku.edu.cn
   scholar: 
   description: "Ye is a graduate student."
 
@@ -43,17 +43,17 @@
   image: /static/img/members/HongZhang.jpg
   altimage: /static/img/members/HongZhang.jpg
   position: Graduate Student
-  email: 
+  email: 2160402060@cnu.edu.cn
   scholar: 
-  description: "Hong is a graduate student."
+  description: "Hong got her master degree in Psychology from Capital Normal University in 2019. Now she is interested in the psychological and neural mechanisms of moral decision-making and impression formation."
 
 - name: Jiong Yang (杨煚)
   image: 
   altimage: 
   position: Graduate Student
-  email: 
+  email: jiongyang@stu.pku.edu.cn
   scholar: 
-  description: "Jiong is a graduate student."
+  description: "Jiong got her Bachelor's degree in Psychology and Economics from the Renmin University of China. She's always been interested in reinforcement learning(RL) and now she focuses mostly on how mood affects RL."
 
 - name: Zheyi Ding (丁喆一)
   image: 
@@ -66,7 +66,7 @@
 - name: Xinru Huang (黄馨茹)
   image: /static/img/members/XinruHuang.jpg
   altimage: /static/img/members/XinruHuang.jpg
-  position: Graduate Student
+  position: Undergraduate Student
   email: 
   scholar: 
   description: "Xinru is now a senior majoring in Psychology at Peking University, expecting to join in Jian' lab after graduation. Xinru was born in 2000 in Chongqing city, the city of mountains. She is interested in social cognition and value-based decision-making, and her current research mainly concerns about social preference, prosocial behaviors, and inequity aversion."
