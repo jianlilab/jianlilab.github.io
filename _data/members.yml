@@ -8,7 +8,7 @@
 
 
 - name: Yinmei Ni (倪荫梅)
-  image: /static/img/members/YeWang.jpg
+  image: 
   altimage: /static/img/members/bomb/YeWang_bomb.jpeg
   position: Postdoc
   email: 
@@ -16,7 +16,7 @@
   description: "Yinmei is a Postdoc."
   
 - name: Xunwei Sun (孙洵伟)
-  image: /static/img/members/YeWang.jpg
+  image: 
   altimage: /static/img/members/bomb/YeWang_bomb.jpeg
   position: Postdoc
   email: 
@@ -33,7 +33,7 @@
 
 - name: Ye Wang (王也)
   image: /static/img/members/YeWang.jpg
-  altimage: /static/img/members/bomb/YeWang_bomb.jpeg
+  altimage: 
   position: Graduate Student
   email: 
   scholar: 
@@ -48,16 +48,16 @@
   description: "Hong is a graduate student."
 
 - name: Jiong Yang (杨煚)
-  image: /static/img/members/HongZhang.jpg
-  altimage: /static/img/members/HongZhang.jpg
+  image: 
+  altimage: 
   position: Graduate Student
   email: 
   scholar: 
   description: "Jiong is a graduate student."
 
 - name: Zheyi Ding (丁喆一)
-  image: /static/img/members/HongZhang.jpg
-  altimage: /static/img/members/HongZhang.jpg
+  image: 
+  altimage: 
   position: Graduate Student
   email: 
   scholar: 
@@ -69,7 +69,7 @@
   position: Graduate Student
   email: 
   scholar: 
-  description: "Xinru is now a senior majoring in Psychology at Peking University and expected to become a full member of Jian' lab after graduation. Xinru was born in 2000 in Chongqing city, the city of mountains. She is interested in social cognition and value-based decision-making, and her current research mainly concerns about social preference, prosocial behaviors, and inequity aversion."
+  description: "Xinru is now a senior majoring in Psychology at Peking University, expecting to join in Jian' lab after graduation. Xinru was born in 2000 in Chongqing city, the city of mountains. She is interested in social cognition and value-based decision-making, and her current research mainly concerns about social preference, prosocial behaviors, and inequity aversion."
 
 # - name: Li Li (李莉)
 #   image: /static/img/members/LiLi.jpg
