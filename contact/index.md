@@ -12,10 +12,10 @@ group: contact
 <div class="col-md-4">
 
   <h4>Jian Li</h4>
-  Assistant Professor  <br>
+  Principal Investigator  <br>
   School of Psychological and Cognitive Sciences<br>
   Peking University  <br>
-  email: li.jian (at) pku.edu.cn <br>
+  email: li.jian@pku.edu.cn <br>
   tel: +86 10 62767123
 
 </div>
@@ -30,18 +30,14 @@ group: contact
 
 <div class="col-md-8">
 
-  <h4>Postdoctoral Fellows:</h4>
-Inquiries about Postdoctoral positions should be emailed directly to Prof. Jian Li and clearly, but briefly, articulate why you are potentially interested in joining the lab. Candidates will be encouraged to explore applying for extramural fellowships to support their research.<br><br>
+Inquiries about all the positions below should be emailed directly to Prof. Jian Li and clearly, but briefly, articulate your research interests and ideally include your CV. 
+  
+  <h4>Postdoctoral applicants:</h4>
+Candidates should have (or be nearing completion of) a PhD in psychology, neuroscience, cognitive science, or a related field, and will be encouraged to explore applying for extramural fellowships to support their research. Ideal candidates would have rich experience with computational modeling and programming, or/and collecting and analyzing fMRI or EEG data. <br><br>
 
-  <h4>Prospective Graduate Students:</h4>
- <br><br>
-
-  <h4>Undergraduate Students:</h4>
-One goal of the lab is to provide undergraduates opportunities with sufficient hands-on experience and help them grow into independent researchers. If interested, please send Prof. Jian Li an email including a brief self introduction and your research interest. <br><br>
-
-</div>
+  <h4>Predoctoral applicants:</h4>
+Candidates should have (or be nearing completion of) a Bachelor's or Master's degree in psychology, neuroscience, cognitive science, or a related field. You are welcomed to attend our lab seminar and be the research assistants before the official applications. <br><br>
 
 </div>
 
-
-<img class="img-responsive center-block" src="/static/img/JoinUs.jpg" alt="Join Us!">
+</div>
