@@ -25,7 +25,7 @@
 
 - name: Jiashu Wang (王嘉澍)
   image: /static/img/members/JiashuWang.png
-  altimage: /static/img/members/JiashuWang.png
+  altimage: 
   position: Graduate Student
   email: wangjiashu1991@163.com
   scholar: 
@@ -41,7 +41,7 @@
 
 - name: Hong Zhang (张红)
   image: /static/img/members/HongZhang.jpg
-  altimage: /static/img/members/HongZhang.jpg
+  altimage: 
   position: Graduate Student
   email: 2160402060@cnu.edu.cn
   scholar: 
@@ -49,19 +49,19 @@
 
 - name: Jiong Yang (杨煚)
   image: /static/img/members/JiongYang.jpg
-  altimage: /static/img/members/JiongYang.jpg
+  altimage: 
   position: Graduate Student
   email: jiongyang@stu.pku.edu.cn
   scholar: 
   description: "Jiong got her Bachelor's degrees in Psychology and Economics from the Renmin University of China. She's always been interested in reinforcement learning(RL) and now she focuses mostly on how mood affects RL."
 
 - name: Zheyi Ding (丁喆一)
-  image: 
+  image: /static/img/members/ZheyiDing.png
   altimage: 
   position: Graduate Student
-  email: 
+  email: elevendzy@pku.edu.cn
   scholar: 
-  description: "Zheyi is a graduate student."
+  description: "Zheyi got her Bachelor’s degrees in Psychology and Chinese Literature from Peking University in 2021. Now she is interested in how human update their beliefs and seek information from the environment."
   
 - name: Xinru Huang (黄馨茹)
   image: /static/img/members/XinruHuang.jpg
