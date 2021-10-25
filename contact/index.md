@@ -13,10 +13,13 @@ group: contact
 
   <h4>Jian Li</h4>
   Principal Investigator  <br>
-  School of Psychological and Cognitive Sciences<br>
-  Peking University  <br>
-  email: li.jian@pku.edu.cn <br>
-  tel: +86 10 62767123
+  School of Psychological and Cognitive Sciences <br>
+  IDG McGovern Institute for Brain Research <br>
+  Peking University <br>
+  <br>
+  Email: li.jian@pku.edu.cn <br>
+  Tel: +86 10 62767123 <br>
+  Address: Wangkezhen Building Room 1714, 52 Haidian Road, Beijing, China 100871 <br>
 
 </div>
 
