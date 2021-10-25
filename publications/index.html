@@ -12,20 +12,11 @@ group: publications
 
 <br>
 
-<!-- not sure how the sort function works here -->
-
 {% assign sorted = site.data.publications | sort: 'published_at' |reverse %}
 
 {% for publication in sorted %}
 
- {% if publication.pdf %} 
-
-  {{ publication.title | markdownify }} <a href = "{{publication.url}}" alt = "URL"> <b>URL</b></a> | <a href="{{publication.pdf}}">URL <b>PDF</b></a>
- 
- {% endif %}	
-
-<br>
-<br>
+ {{ publication.title | markdownify }} <a href = "{{publication.url}}" alt = "URL"> <b>URL</b></a> | <a href="{{publication.pdf}}">URL <b>PDF</b></a>
 
 {% endfor %}
 
