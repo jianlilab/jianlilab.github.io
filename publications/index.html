@@ -16,9 +16,7 @@ group: publications
 
 {% for publication in sorted %}
  
- {{ publication.title | markdownify }} 
- 
- <nobr>
+ {{ publication.title }} 
  
  {% if publication.pdf %}
  
