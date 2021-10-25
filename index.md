@@ -4,7 +4,7 @@ layout: home
 group: home
 ---
 
-# <span style = "font-size: 60%"> Learning and Decision Making(LDM) Lab
+# <span style = "font-size: 40%"> Learning and Decision Making(LDM) Lab
 
 We are part of [the School of Psychological and Cognitive Sciences](https://www.psy.pku.edu.cn/english/index.htm) and [the IDG McGovern Institute for Brain Research](https://mgv.pku.edu.cn/english/index.htm) at [Peking University](https://english.pku.edu.cn/). 
 
