@@ -56,7 +56,7 @@
   description: "Jiong got her Bachelor's degrees in Psychology and Economics from the Renmin University of China. She's always been interested in reinforcement learning(RL) and now she focuses mostly on how mood affects RL."
 
 - name: Zheyi Ding (丁喆一)
-  image: /static/img/members/ZheyiDing.png
+  image: /static/img/members/ZheyiDing.jpg
   altimage: 
   position: Graduate Student
   email: elevendzy@pku.edu.cn
@@ -65,7 +65,7 @@
   
 - name: Xinru Huang (黄馨茹)
   image: /static/img/members/XinruHuang.jpg
-  altimage: /static/img/members/XinruHuang.jpg
+  altimage:
   position: Undergraduate Student
   email: 
   scholar: 
