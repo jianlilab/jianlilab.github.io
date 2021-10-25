@@ -16,7 +16,7 @@ group: publications
 
 {% for publication in sorted %}
  
- {{ publication.title }} 
+ {{ publication.title | markdownify }}
  
  {% if publication.pdf %}
  
@@ -27,8 +27,6 @@ group: publications
  <a href = "{{publication.url}}" alt = "URL"> <b>URL</b></a>
  
  {% endif %}
- 
- </nobr>
  
 <br>
 <br>
