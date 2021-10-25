@@ -1,19 +1,19 @@
-- name: HOME
+- name: Home
   link: "/"
   group: home
 
-- name: RESEARCH
-  link: "/research"
-  group: research
-
-- name: PUBLICATIONS
+- name: People
+  link: "/members"
+  group: members
+  
+- name: Publications
   link: "/publications"
   group: publications
 
-- name: PEOPLE
-  link: "/members"
-  group: members
+- name: News
+  link: "/news"
+  group: news
 
-- name: CONTACT
+- name: Contact
   link: "/contact"
   group: contact
