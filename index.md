@@ -4,13 +4,8 @@ layout: home
 group: home
 ---
 
-# <span style = "font-size: 80%">Welcome to Learning and Decision-making Lab!
+# <span style = "font-size: 60%"> Learning and Decision-making Lab
 
-We are part of [School of Psychological and Cognitive Sciences](http://psy.pku.edu.cn) at [Peking University](http://pku.edu.cn). 
+We are part of [the School of Psychological and Cognitive Sciences](https://www.psy.pku.edu.cn/english/index.htm) and [the IDG McGovern Institute for Brain Research](https://mgv.pku.edu.cn/english/index.htm) at [Peking University](https://english.pku.edu.cn/). 
 
 Research in the lab is focused on discovering the cognitive and neural mechanisms of reinforcement learning and decision-making. 
-
-We are located in Wangkezhen Building at Peking University.
-
-**Note: this website is still under construction, not a public released one.**
-
