@@ -13,32 +13,50 @@
 #     - name: 'Mullins Lab'
 #       url: 'http://mullinslab.ucsf.edu/'
 #
-- title: '**Sun, J.**, **Li, J.**, & Zhang, H. (2019). Human representation of multimodal distributions as clusters of samples. PLoS computational biology, 15(5), e1007047.'
-  url: 'https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007047'
-  published_at: 20190514
 
-- title: '**Li, W.**, Wang, H., Xie, X., & **Li, J.** (2019). Neural mediation of greed personality trait on economic risk-taking. eLife, 8, e45093.'
-  url: 'https://cdn.elifesciences.org/articles/45093/elife-45093-v2.pdf'
+- title: '**Wu, Q.**, Mao, J., & **Li, J**. (2020). Oxytocin alters the effect of payoff but not base rate in emotion perception. *Psychoneuroendocrinology, 114*, 104608.'
+  url: 'https://www.sciencedirect.com/science/article/pii/S0306453020300275'
+  pdf: 
+  published_at: 20200401
+
+- title: 'Björkstrand, J., Schiller, D., **Li, J.**, Davidson, P., Rosén, J., Mårtensson, J., & Kirk, U. (2019). The effect of mindfulness training on extinction retention. *Scientific Reports, 9*(1), 1–9.'
+  url: 'https://www.nature.com/articles/s41598-019-56167-7'
+  pdf: 'https://www.nature.com/articles/s41598-019-56167-7.pdf'
+  published_at: 20191227
+
+- title: '**Sun, J.**, **Li, J.**, & Zhang, H. (2019). Human representation of multimodal distributions as clusters of samples. *PLoS computational biology, 15*(5), e1007047.'
+  url: 'https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007047'
+  pdf: 
+  published_at: 20190514
+ 
+- title: '**Li, W.**, Wang, H., Xie, X., & **Li, J.** (2019). Neural mediation of greed personality trait on economic risk-taking. *eLife, 8*, e45093.'
+  url: 'https://elifesciences.org/articles/45093'
+  pdf: 'https://cdn.elifesciences.org/articles/45093/elife-45093-v2.pdf'
   published_at: 20190429
 
-- title: 'Dunsmoor, J. E., Kroes, M. C., **Li, J.**, Daw, N. D., Simpson, H. B., & Phelps, E. A. (2019). Role of human ventromedial prefrontal cortex in learning and recall of enhanced extinction. Journal of Neuroscience, 2713-18.'
-  url: 'http://www.jneurosci.org/content/jneuro/early/2019/02/19/JNEUROSCI.2713-18.2019.full.pdf'
+- title: 'Dunsmoor, J. E., Kroes, M. C., **Li, J.**, Daw, N. D., Simpson, H. B., & Phelps, E. A. (2019). Role of human ventromedial prefrontal cortex in learning and recall of enhanced extinction. *Journal of Neuroscience, 39*(17), 3264-3276.'
+  url: 'https://www.jneurosci.org/content/39/17/3264'
+  pdf: 'http://www.jneurosci.org/content/jneuro/early/2019/02/19/JNEUROSCI.2713-18.2019.full.pdf'
   published_at: 20190219
 
-- title: '**Li, L.**, Li, K. K., & **Li, J.** (2019). Private but not social information validity modulates social conformity bias. Human brain mapping.'
-  url: 'https://onlinelibrary.wiley.com/doi/pdf/10.1002/hbm.24536'
+- title: '**Li, L.**, Li, K. K., & **Li, J.** (2019). Private but not social information validity modulates social conformity bias. *Human brain mapping, 40*(8), 2464-2474.'
+  url: 'https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.24536'
+  pdf: 'https://onlinelibrary.wiley.com/doi/epdf/10.1002/hbm.24536'
   published_at: 20190213
 
-- title: 'Homan, P., Levy, I., Feltham, E., Gordon, C., Hu, J., **Li, J.**, Pietrzak, R. H., Southwick S., Krystal J. H., Harpaz-Rotem I., & Schiller, D. (2019). Neural computations of threat in the aftermath of combat trauma. Nature neuroscience, 22(3), 470.'
-  url: 'https://www.nature.com/articles/s41593-018-0315-x.pdf'
+- title: 'Homan, P., Levy, I., Feltham, E., Gordon, C., Hu, J., **Li, J.**, Pietrzak, R. H., Southwick S., Krystal J. H., Harpaz-Rotem I., & Schiller, D. (2019). Neural computations of threat in the aftermath of combat trauma. *Nature neuroscience, 22*(3), 470-476.'
+  url: 'https://www.nature.com/articles/s41593-018-0315-x'
+  pdf: 'https://www.nature.com/articles/s41593-018-0315-x.pdf'
   published_at: 20190121
 
-- title: 'Song, M., Wang, X., Zhang, H., & **Li, J.** (2019). Proactive information sampling in value-based decision-making: deciding when and where to saccade. Frontiers in human neuroscience, 13, 35.'
-  url: 'http://www.jneurosci.org/content/early/2019/02/19/JNEUROSCI.2713-18.2019.abstract'
-  published_at: 20190000
+- title: 'Song, M., Wang, X., Zhang, H., & **Li, J.** (2019). Proactive information sampling in value-based decision-making: deciding when and where to saccade. *Frontiers in human neuroscience, 13*, 35.'
+  url: 'https://www.frontiersin.org/articles/10.3389/fnhum.2019.00035/full'
+  pdf:
+  published_at: 20190211
 
 - title: '**Li, L.**, Kumano, S., Keshmirian, A., Bahrami, B., **Li, J.**, & Wright, N. D. (2018). Parsing cultural impacts on regret and risk in Iran, China and the United Kingdom. *Scientific reports, 8*(1), 13862.'
-  url: 'https://www.nature.com/articles/s41598-018-30680-7.pdf'
+  url: ''
+  pdf: 'https://www.nature.com/articles/s41598-018-30680-7.pdf'
   published_at: 20180914
 
 - title: 'Raio, C. M., Hartley, C. A., Orederu, T. A., **Li, J.**, & Phelps, E. A. (2017). Stress attenuates the flexible updating of aversive value. *Proceedings of the National Academy of Sciences, 114*(42), 11241-11246.'
