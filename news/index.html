@@ -9,12 +9,12 @@ group: news
 {% for post in site.data.news %}
 <hr>
 <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
-<div id = "{{post.date}}" class="row" style="padding-top: 60px; margin-top: -60px;">
+<div id = "{{post.date}}" class="row" style="padding-top: 40px; margin-top: -40px;">
     <div class="col-sm-4">
-        <strong>{{post.date}}</strong> <br>
         <img class="img-responsive" src="{{post.image}}"> <br>
     </div>
     <div class="col-sm-8">
+        <h3>{{post.date}}</h3> <br>
         <p class="text-justify">{{post.content | markdownify}}</p>
     </div>
 </div>
