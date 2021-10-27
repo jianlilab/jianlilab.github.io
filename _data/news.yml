@@ -2,6 +2,10 @@
   image: /static/img/Scholarship.png
   content: "Congratulations to **Ye Wang** on winning a premium scholarship @ PKU!"
  
+- date: Sep 30, 2021
+  image: /static/img/Labphoto.jpg
+  content: "We took a great photograph in front of the university library."
+
 - date: Sep 23, 2021
   image: /static/img/news/Jiashu_paper1.png
   content: "A [new paper](https://www.sciencedirect.com/science/article/pii/S0301008221001921) by **Jiashu Wang**, now at *Progress in Neurobiology*, proposing a quantitative mental accounting model to capture the heterogeneity of the sunk cost effects among participants and further demonstrating the relevant neural process."
