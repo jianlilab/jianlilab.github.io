@@ -8,7 +8,7 @@
 
 
 - name: Yinmei Ni (倪荫梅)
-  image: 
+  image: /static/img/members/YinmeiNi.jpg
   altimage: 
   position: Postdoctoral Fellow
   email: niyinmei@mail.bnu.edu.cn
@@ -16,7 +16,7 @@
   description: "Yinmei is a Postdoc."
   
 - name: Xunwei Sun (孙洵伟)
-  image: 
+  image: /static/img/members/XunweiSun.jpg
   altimage: 
   position: Postdoctoral Fellow
   email: sunxw@psych.ac.cn
